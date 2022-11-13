@@ -32,9 +32,7 @@ class _LoginScreenState  extends State<LoginScreen> {
           ),
         ),
       ),
-      body: Center(
 
-      ),
     );
   }
 }
